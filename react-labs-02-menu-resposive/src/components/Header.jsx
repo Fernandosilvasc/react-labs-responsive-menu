@@ -15,31 +15,31 @@ class Header extends Component {
         id: 1,
         title: "HOME",
         isCurrentPage: false,
-        url: "#overview"
+        url: "#home"
       },
       {
         id: 2,
         title: "INVENTORY",
         isCurrentPage: false,
-        url: "#the-core"
+        url: "#inventory"
       },
       {
         id: 3,
         title: "SERVICES",
         isCurrentPage: false,
-        url: "#solutions"
+        url: "#services"
       },
       {
         id: 4,
         title: "BLOG",
         isCurrentPage: false,
-        url: "#about"
+        url: "#blog"
       },
       {
         id: 5,
         title: "SHOP",
         isCurrentPage: false,
-        url: "#lets-start"
+        url: "#shop"
       }
     ]
   };
